@@ -1,4 +1,4 @@
-#---------------------------@AbhijeetK1N6------------------
+#---------------------------@AbhijeetK1N6--------------------
 """
 Function Description:
 Complete the factorial function in the editor below. Be sure to use recursion.
@@ -11,8 +11,8 @@ int: the factorial of
 """
 
 # You can use any of the function given below;
-####################################################
-#-------------------(Function Type : 1)---------------
+##########################################################
+#-------------------(Function Type : 1)-------------------
 def factorial(n):
     #return math.factorial(n)
     # Write your code here
